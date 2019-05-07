@@ -14,7 +14,7 @@
    
    
 
- - Contains data of morethan 9200+ car models.
+ - Contains data of approximately 10K car models.
 
 ### Incase if you want to import this data into your database:
 
@@ -30,4 +30,4 @@
  
  - [mongoDB](https://docs.mongodb.com/manual/reference/program/mongoimport/)
 
-> Note: The data set has been updated with 2019 models. Last updated on 24th April, 2019
+> Note: The data set has been updated with 2019 models. Last updated on 7th May, 2019
