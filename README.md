@@ -1,6 +1,6 @@
 ***
 
-## USA CAR MODELS DATA (1992 - 2019)
+## US CAR MODELS DATA (1992 - 2019)
 
 ***
 
