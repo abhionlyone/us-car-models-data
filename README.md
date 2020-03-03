@@ -30,4 +30,4 @@
  
  - [mongoDB](https://docs.mongodb.com/manual/reference/program/mongoimport/)
 
-> Note: The data set has been updated with 2020 models. Last updated on 3rd Mar, 2020
+> If you find this data helpful, Please star the repo. That's the only way we will know this data is helpful to someone and encourages us to update this more often :) 
