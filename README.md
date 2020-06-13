@@ -1,6 +1,6 @@
 ***
 
-## US CAR MODELS DATA (1992 - 2020)
+## US CAR MODELS DATA (1992 - 2021)
 
 ***
 
@@ -16,7 +16,7 @@
 
  - Contains data of approximately 10K car models.
 
-### Incase if you want to import this data into your database:
+### Import the dataset to your database:
 
  
 
@@ -30,4 +30,3 @@
  
  - [mongoDB](https://docs.mongodb.com/manual/reference/program/mongoimport/)
 
-> If you find this data helpful, Please star the repo. That's the only way we will know this data is helpful to someone and encourages us to update this more often :) 

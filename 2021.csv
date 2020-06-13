@@ -1,5 +1,11 @@
 year,make,model,body_styles
+2021,Chevrolet,Suburban,"[""SUV""]"
+2021,Chevrolet,Tahoe,"[""SUV""]"
 2021,Chevrolet,Trailblazer,"[""SUV""]"
+2021,Genesis,GV80,"[""SUV""]"
+2021,GMC,Yukon,"[""SUV""]"
+2021,GMC,Yukon XL,"[""SUV""]"
+2021,Honda,Insight,"[""Sedan""]"
 2021,Kia,Seltos,"[""SUV""]"
 2021,Rivian,R1S,"[""SUV""]"
 2021,Rivian,R1T,"[""Pickup""]"
