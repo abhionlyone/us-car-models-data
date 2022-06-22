@@ -5,7 +5,7 @@
 ***
 
  - Year, Make, Model and Body style data of nearly all cars manufactured
-   between 1992 and 2020 in csv format.
+   between 1992 and 2022 in csv format.
    
    
  - This is the most comprehensive open-source dataset for cars available
