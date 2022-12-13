@@ -32,7 +32,8 @@ Donations will be used to maintain and improve the dataset, and to continue prov
 
 We have the following sponsorship levels:
 
-Silver sponsor - $100+
-Gold sponsor - $500+
-Diamond sponsor - $1000+
+ - Silver sponsor - $100+ 
+ - Gold sponsor - $500+ 
+ - Diamond sponsor - $1000+
+
 Please follow this link to make a donation: [Donate](https://github.com/sponsors/abhionlyone?o=esc). Thank you for your support!
