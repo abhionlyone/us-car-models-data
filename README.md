@@ -35,5 +35,4 @@ We have the following sponsorship levels:
 Silver sponsor - $100+
 Gold sponsor - $500+
 Diamond sponsor - $1000+
-<iframe src="https://github.com/sponsors/abhionlyone/card" title="Sponsor abhionlyone" height="225" width="600" style="border: 0;"></iframe>
-<p>Thank you for your support!</p>
+Please follow this link to make a donation: [Donate](https://github.com/sponsors/abhionlyone?o=esc). Thank you for your support!
