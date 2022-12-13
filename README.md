@@ -22,3 +22,18 @@ Download the US CAR MODELS DATA (1992 - 2023) today and start exploring the fasc
  
  - [mongoDB](https://docs.mongodb.com/manual/reference/program/mongoimport/)
 
+
+
+Dear users,
+
+We are happy to announce that our open source dataset for cars has been maintained for the last 4 years and continues to provide valuable information for users. If you have found this dataset useful, we would greatly appreciate your support through a donation.
+
+Donations will be used to maintain and improve the dataset, and to continue providing it as a free resource for users. Donators will also be recognized as sponsors in the project's readme file.
+
+We have the following sponsorship levels:
+
+Silver sponsor - $100+
+Gold sponsor - $500+
+Diamond sponsor - $1000+
+<iframe src="https://github.com/sponsors/abhionlyone/card" title="Sponsor abhionlyone" height="225" width="600" style="border: 0;"></iframe>
+<p>Thank you for your support!</p>
